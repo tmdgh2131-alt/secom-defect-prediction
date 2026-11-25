@@ -14,3 +14,7 @@ __pycache__/
 # Output
 outputs/
 
+
+# 개인 확인용 (저장소 제외)
+check.ipynb
+data/secom_view.csv
